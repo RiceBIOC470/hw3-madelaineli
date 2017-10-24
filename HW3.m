@@ -1,3 +1,14 @@
+% GB comments
+1.	100
+2a. 70 Fraction is incorrectly calculated. Need to calculate the total number of aligned nucleotides and divide this number by the total length of the coding sequence form either gb_1.Sequence or gb_2.Sequence. 
+2b. 70 Same issue as 2a
+2c. 70 Same issue as 2a. 
+3a 100 
+3b. 100
+3c. 100  	
+Overall: 87
+
+
 %HW3
 
 %% Problem 1 - Smith-Waterman alignment
